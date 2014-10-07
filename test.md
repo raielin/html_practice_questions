@@ -13,11 +13,11 @@ HTML and CSS practice questions
 ```
 ### Write a css statement to change the second item purple
 ```
-<ul>
+<ol>
   <li class="awesome" id="penguin"> Penguins</li>
   <li class="awesome" id="shark"> Whale Sharks</li>
   <li class="awesome" id="falcon"> Falcons! </li>
-</ul>
+</ol>
 ```
 
 ### Debug the following
@@ -25,4 +25,12 @@ HTML and CSS practice questions
 <h3><a href="#"> WHAT AM I DOINGS GAH! </h3></a>
 ```
 
-###
+### Write css to change only the column1 header to tomato(thats a css color)
+'''
+<div class="wrapper">
+  <div class="column1"><h2> I'm a column </h2></div>
+  <div class="column2"><h2> Hey me too </h2></div>
+</div>
+'''
+
+### Create a list without numbers

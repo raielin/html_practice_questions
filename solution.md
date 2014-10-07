@@ -27,4 +27,21 @@ HTML and CSS practice questions
 <h3><a href="#"> WHAT AM I DOINGS GAH! </a></h3>
 ```
 
+### Write css to change only the column1 heaer to tomato
+'''
+<div class="wrapper">
+  <div class="column1"><h2> I'm a column </h2></div>
+  <div class="column2"><h2> Hey me too </h2></div>
+</div>
 
+.column1 h2{color: tomato;}
+'''
+
+### Create a list without numbers
+'''
+<ul>
+  <li> hi </li>
+  <li> im </li>
+  <li> a list! </li>
+</ul>
+'''
