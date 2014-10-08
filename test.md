@@ -64,7 +64,7 @@ HTML and CSS practice questions
 
 ### 11. Make the two div's with class "happy" fit side by side in the wrapper div using css
 ```
-<div class="wrapper">
+<div class="container">
   <div class="happy"><h2> HaPpY </h2></div>
   <div class="happy"><h2> hApPy </h2></div>
 </div>
@@ -99,11 +99,6 @@ HTML and CSS practice questions
 
 ### 14. Using the same tomato div change the font of the header to Monotype Corsiva and size of 50px
 ```
-<div class="tomato">
-  <h2>Crazy Tomatos's Crazy Tomato Emporium</h2>
-  <p>We Have all the craziest tomatoes in town!</p>
-</div>
-
 <style>
 
 </style>
