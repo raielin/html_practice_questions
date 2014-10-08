@@ -29,7 +29,7 @@ HTML and CSS practice questions
 ```
 
 ### 5. Write css to change only the column1 header to tomato(thats a css color)
-'''
+```
 <div class="wrapper">
   <div class="column1"><h2> I'm a column </h2></div>
   <div class="column2"><h2> Hey me too </h2></div>
@@ -38,32 +38,32 @@ HTML and CSS practice questions
 <style>
   // css here //
 </style>
-'''
+```
 
 ### 6. Create a list without numbers
 
 ### 7. Make this image 400 pixels wide without changing the height/width ratio using css
-'''
+```
 <img src="http://www.maplewiki.net/images/c/c7/Monster_Giant_Tomato.png" alt="Tomato Monster">
-'''
+```
 
 ### 8. Give the image above a border radius of 30 px using a css statement
-'''
+```
 <style>
 
 </style>
-'''
+```
 ### 9. Make a button that says "Click Me!"
 
 ### 10. Write a css statement to color the button blue
-'''
+```
 <style>
   // css here //
 </style>
-'''
+```
 
 ### 11. Make the two div's with class "happy" fit side by side in the wrapper div using css
-'''
+```
 <div class="wrapper">
   <div class="happy"><h2> HaPpY </h2></div>
   <div class="happy"><h2> hApPy </h2></div>
@@ -71,18 +71,18 @@ HTML and CSS practice questions
 <style>
   // css here //
 </style>
-'''
+```
 
 ### 12. Create margin for the div  with 10px on the top, 20px on the bottom, 30px on the left, and 40px on the right. In one css statement
-'''
+```
 <div class="crazy">
   <h2>Crazy Larry's Crazy Emporium</h2>
   <p>We Have all the craziest discounts in town!</p>
 </div>
-'''
+```
 
 ### 13. Change the opacity of tomato div to 50% opacity
-'''
+```
 <div class="tomato">
   <h2>Crazy Tomatos's Crazy Tomato Emporium</h2>
   <p>We Have all the craziest tomatoes in town!</p>
@@ -95,11 +95,11 @@ HTML and CSS practice questions
   }
 </style>
 
-'''
+```
 
 ### 14. Using the same tomato div change the font of the header to Monotype Corsiva and size of 50px
-'''
+```
 <style>
 
 </style>
-'''
+```
