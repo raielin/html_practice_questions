@@ -1,7 +1,7 @@
 HTML and CSS practice questions
 ============
 
-### 1. Make the following have each sentence on their own line without extra <p> tags
+### 1. Get rid of excess tags while keeping the each sentence on it's own line
 ```
 <p> Hi this is my opening sentence. <br> I want this to be on the line below it. </p>
 ```
@@ -50,7 +50,7 @@ HTML and CSS practice questions
 </ul>
 ```
 
-### 7. Make this image 400 pixels wide without changing the height/width ratio using css
+###  7. Make this image 400 pixels wide keeping the pixel ratio the same. I.E. a 200px wide by 400 px tall will turn to 400px wide by 800px tall (css has a short cut for this )
 ```
 <img src="http://www.maplewiki.net/images/c/c7/Monster_Giant_Tomato.png" alt="Tomato Monster">
 
@@ -149,5 +149,16 @@ button{
   h1, h2, h3, {
     color: tomato;
   }
+</style>
+```
+
+### 16. Center align all the headers (can also be one statement)
+```
+<h1> Big! </h1>
+<h2> Medium </h2>
+<h3> Small </h3>
+
+<style>
+h1,
 </style>
 ```
