@@ -103,3 +103,14 @@ HTML and CSS practice questions
 
 </style>
 ```
+
+### 15. Make all of the headers the same color (tomato) in one css statement
+```
+<h1> Big! </h1>
+<h2> Medium </h2>
+<h3> Small </h3>
+
+<style>
+
+</style>
+```

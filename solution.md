@@ -138,3 +138,16 @@ button{
   }
 </style>
 ```
+
+### 15. Make all of the headers the same color in one css statement
+```
+<h1> Big! </h1>
+<h2> Medium </h2>
+<h3> Small </h3>
+
+<style>
+  h1, h2, h3, {
+    color: tomato;
+  }
+</style>
+```
